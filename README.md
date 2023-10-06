@@ -1,5 +1,5 @@
 # T1.3A-week4（PDF读取&存储）
-## 代码流程简述
+## 1.代码流程简述
 - 使用PyPDF2库中的PdfReader()读取pdf文件，转化为test
 - 通过与glove词向量库匹配，将text转换为向量
 - 将向量存储到Annoy索引中，生成.ann文件
