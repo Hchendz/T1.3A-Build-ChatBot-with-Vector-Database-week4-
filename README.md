@@ -14,7 +14,7 @@ pdf的向量数据存储处
 ### 2.4 glove.6B.xxxd.txt
 glove词向量库文件，xxxd代表词向量库所使用的维数（100d表示每个词向量的维数为100），可通过修改主代码中的VECTOR_SIZE和GLOVE_FILE变量来选择
 
-![图片](https://github.com/Hchendz/T1.3A-week4/assets/144656283/0a6f7876-a6fa-4573-8d96-35d9f974bdbb)
+![图片](https://github.com/Hchendz/T1.3A-week4/assets/144656283/87f18ac7-b827-42d3-913e-c29589f67bc4)
 
 ### 2.5 print_vectors.py
 辅助工具，可打印出pdf_index.ann中存储的所有向量，第n个向量对应n.pdf，注意VECTOR_SIZE需与存储的向量维数一致
