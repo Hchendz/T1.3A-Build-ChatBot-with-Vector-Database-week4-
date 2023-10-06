@@ -9,3 +9,4 @@ openapi
 python-dotenv
 openai
 annoy
+gensim.models
