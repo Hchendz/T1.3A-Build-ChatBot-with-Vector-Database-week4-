@@ -12,7 +12,7 @@
 ### 2.3 pdf_index.ann
 pdf的向量数据存储处
 ### 2.4 glove.6B.xxxd.txt
-glove词向量库文件，xxxd代表词向量库所使用的维数（100d表示每个词向量的维数为100），可通过修改主代码中的GLOVE_FILE和VECTOR_SIZE变量来选择
+glove词向量库文件，xxxd代表词向量库所使用的维数（100d表示每个词向量的维数为100），可通过修改主代码中的GLOVE_FILE来选择，同时要保证VECTOR_SIZE变量值等于向量库维数
 
 ![图片](https://github.com/Hchendz/T1.3A-week4/assets/144656283/87f18ac7-b827-42d3-913e-c29589f67bc4)
 
